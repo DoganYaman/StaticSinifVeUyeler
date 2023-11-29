@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.exe
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.deps.json
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.dll
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.pdb
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.dll
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\refint\static-sinif-ve-uyeler.dll
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.pdb
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\static-sinif-ve-uyeler\obj\Debug\net5.0\ref\static-sinif-ve-uyeler.dll
